@@ -4,7 +4,7 @@ const Hero = () => {
         <div className="hero-banner">
           <h1>continue exploring</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae i
             explicabo debitis est autem dicta.
           </p>
           <a href="#tours" className="btn hero-btn">explore tours</a>
