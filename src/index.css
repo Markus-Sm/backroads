@@ -254,6 +254,7 @@ About
 
   .about-img {
     position: relative;
+    overflow: hidden;
   }
   .about-photo {
     position: relative;
