@@ -322,6 +322,10 @@ Featured Tours
 ===============
 */
 
+.ac{
+  background: var(--clr-primary-5);
+}
+
 .tour-card {
   transition: var(--transition);
   background: var(--clr-grey-10);
