@@ -324,6 +324,7 @@ Featured Tours
 
 .ac{
   display: none;
+  position: absolute;
 }
 
 .tour-card {
