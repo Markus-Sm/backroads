@@ -323,7 +323,7 @@ Featured Tours
 */
 
 .ac{
-  background: var(--clr-primary-5);
+  display: none;
 }
 
 .tour-card {
