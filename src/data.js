@@ -89,7 +89,7 @@ export const tour = [
         text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.",
         location: "indonesia",
         days: "11 days",
-        price: "from $1405"
+        price: "from $1406"
     },
     {
         id: 3,
